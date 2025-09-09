@@ -1,4 +1,4 @@
-# Langchain-HugginbgFaces-Transformers-Python
+# Langchain-HuggingFaces-Transformers-Python
 This repository contains code and examples for integrating LangChain with Hugging Face Transformers. It provides tools to leverage pre-trained models for various natural language processing tasks within the LangChain framework.
 
 ## Features
