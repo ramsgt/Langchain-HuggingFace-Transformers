@@ -1,0 +1,6 @@
+transformers
+langchain
+langchain-huggingface
+torch
+torchvision
+torchaudio
