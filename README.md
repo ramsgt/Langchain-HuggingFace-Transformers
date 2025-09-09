@@ -39,25 +39,25 @@ long
 Generative AI (GenAI) is a rapidly growing field of artificial intelligence. It focuses on creating new content such as text, images, code, audio, and video by learning patterns from large datasets. It is used in many areas like healthcare for drug discovery, automotive for autonomous systems, education for personalized learning, and business for customer service chatbots.
 
 ## Step 3:
-*Ask a question about the summary (or type 'exit' to stop):*
+*Ask a question about the summary (or type 'exit' to stop):*  
 GenAI focus areas?
 
 ### output:
 creating new content
 
-*Ask a question about the summary (or type 'exit' to stop):*
+*Ask a question about the summary (or type 'exit' to stop):*  
 where is GenAI used?
 
 ### output:
 healthcare
 
-*Ask a question about the summary (or type 'exit' to stop):*
+*Ask a question about the summary (or type 'exit' to stop):*   
 What are learning patterns?
 
 ### output:
 large datasets
 
-*Ask a question about the summary (or type 'exit' to stop):*
+*Ask a question about the summary (or type 'exit' to stop):*   
 exit
 
 
